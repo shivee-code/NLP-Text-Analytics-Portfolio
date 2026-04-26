@@ -254,8 +254,8 @@ Project_03_Topic_Modeling_LDA_vs_NMF/
 ├── topic_modeling_with_NMF.ipynb     ← NMF full implementation
 ├── topic_modeling_with_NMF.py        ← NMF Python script
 ├── LDA_image_topic1
-├── LDA_image_topic1
-├── LDA_image_topic1 
+├── LDA_image_topic2
+├── LDA_image_topic3
 └── README.md                         ← You are here
 ```
 
