@@ -158,9 +158,9 @@ NLP-Text-Analytics-Portfolio/
 
 ## Connect With Me
 
-**Name:** Shivam Kumar
-**LinkedIn:** [linkedin.com/in/shivam-kumar-2a0371246](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
-**GitHub:** [github.com/shivee-code](https://github.com/shivee-code)
+**Name:** Shivam Kumar <br>
+**LinkedIn:** [Shivam-Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/) <br>
+**GitHub:** [shivee-code](https://github.com/shivee-code)
 
 ---
 
